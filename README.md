@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Italy, covering official tourism boards, high-speed rail networks, regional guides, cultural sites, and remote work options.
 
+Italy is a historic Mediterranean destination celebrated for its Roman antiquity, Renaissance art masterworks, diverse regional cuisines, and dramatic alpine and coastal landscapes. This list is intended for art historians, culinary travelers, cultural explorers, and historic city visitors.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
